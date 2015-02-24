@@ -56,6 +56,7 @@ $(document).ready(function() {
   $('#back_button').on('click', function() {
     var another =confirm("Would you like to take another snap?");
     if(another === true){
+      alert("reopening snap");
       //TwoPlus.exit();
       window.open(base+"index.html");
     }

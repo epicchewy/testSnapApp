@@ -1,5 +1,5 @@
 // var base = "http://rishabh-apps.s3-website-us-east-1.amazonaws.com/Site/SnapChat-Clone/";
-var base = "http://herbage.s3-ap-northeast-1.amazonaws.com/snapdong-clone/"
+var base = "https://mobi-summer-luke.s3.amazonaws.com/Snap/"
 var user_picture;
 
 var animateDown = function(targetElement, speed){
